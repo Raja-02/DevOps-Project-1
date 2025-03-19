@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon Prime Clone Deployment Project
 ![Pipeline Overview](./src/Overview.png)
 
@@ -349,3 +350,6 @@ pipeline {
 For further details, refer to the word document containing a complete write-up of the project.
 
 ---
+=======
+# DevOps-Project-1
+>>>>>>> 13c2d4f7750ecb0d9d9821bfb41dfb1d356f7e08
